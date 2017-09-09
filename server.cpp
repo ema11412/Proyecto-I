@@ -98,9 +98,8 @@ void *connection_handler(void *socket_desc)
         //Send the message back to client
         string mensaje;
         stringstream ss;
-        char msj = *client_message;
         write(sock , client_message , strlen(client_message));
-        ss << msj;
+        ss << client_message;
         ss >> mensaje;
         list_1.add_head(mensaje);
         printf("%s\n",client_message);
