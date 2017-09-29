@@ -1,0 +1,3 @@
+/home/ema0898/Programas/C++/rmlibserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ema0898/Programas/C++/rmlibserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ema0898/Programas/C++/rmlibserver/cmake-build-debug/CMakeFiles/rmlibserverBranch.dir
